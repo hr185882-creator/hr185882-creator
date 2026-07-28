@@ -1,0 +1,59 @@
+name: Correction or Evidence Review
+description: Request review of a factual statement, source, identity match, or analytical label.
+title: "[Correction]: "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for non-sensitive correction requests. Do not post private personal data, credentials, survivor information, or vulnerability details in a public issue.
+  - type: input
+    id: project
+    attributes:
+      label: Project or repository
+      description: Identify the relevant product, repository, or page.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Exact page, section, or record
+      description: Provide a URL, file path, heading, or record identifier.
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current statement or classification
+      description: Quote or summarize the specific material at issue.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+      description: State what should change and why.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources
+      description: Provide direct links or full citations and explain their authority and relevance.
+    validations:
+      required: true
+  - type: textarea
+    id: conflicts
+    attributes:
+      label: Conflicting evidence or uncertainty
+      description: Identify material evidence that may point in another direction.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public-safety confirmation
+      options:
+        - label: This issue does not contain credentials, private contact information, survivor details, or unnecessary personal data.
+          required: true
+        - label: I understand that association alone does not establish culpability.
+          required: true
