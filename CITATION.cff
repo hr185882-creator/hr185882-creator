@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this portfolio and its individual projects using the relevant project title, version, and access date."
+title: "Hasan Raza Kazmi — AI Product and Strategic Intelligence Portfolio"
+type: software
+authors:
+  - family-names: "Kazmi"
+    given-names: "Hasan Raza"
+url: "https://github.com/hr185882-creator"
+repository-code: "https://github.com/hr185882-creator/hr185882-creator"
+version: "1.0.0"
+date-released: "2026-07-28"
+keywords:
+  - artificial intelligence
+  - strategic intelligence
+  - OSINT
+  - evidence verification
+  - forecasting
+  - political risk
+  - research systems
+license: "CC-BY-4.0"
