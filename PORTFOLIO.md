@@ -27,15 +27,16 @@ This index separates deployed products, analytical systems, research publication
 - Category: geopolitical and public-policy research
 - Purpose: examine documented institutional relationships, financing, security assistance, diplomacy, lobbying, and policy friction without converting evidence of influence into unsupported claims of unified control
 - Demonstrated capabilities: institutional analysis, contested-claim handling, source registers, evidence labels, and responsible research on sensitive subjects
-- Status: public deployment; repository currently private
+- Status: public repository and deployment
 
 ### Research & Decision Systems
 
 - Live product: https://hasan-research-systems.vercel.app/
+- Repository: https://github.com/hr185882-creator/Research-decision-systems
 - Category: editorial research portfolio
 - Included work: EU Chat Control Monitor and The Russian JFK Dossier
 - Demonstrated capabilities: research publication, responsive information architecture, source hierarchy, authorship disclosure, and deployment
-- Status: public deployment; repository currently private
+- Status: public repository and deployment
 
 ### AURORA Learning Platform
 
