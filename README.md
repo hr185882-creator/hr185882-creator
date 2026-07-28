@@ -22,7 +22,7 @@ These figures describe the current public portfolio and public-safe reference pa
 ### [The Epstein Record](https://the-epstein-record.vercel.app/)
 A source-first public-record research platform designed to distinguish adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
-**Repository:** [the-Epstein-record](https://github.com/hr185882-creator/the-Epstein-record) — sanitized architecture, formal schema, privacy controls, fictional claim ledger, domain tests, security policy, release metadata, and CI.
+**Repository:** [the-epstein-record](https://github.com/hr185882-creator/the-epstein-record) — sanitized architecture, formal schema, privacy controls, fictional claim ledger, domain tests, security policy, release metadata, and CI.
 
 **What it demonstrates:** investigative research, evidence classification, privacy controls, source provenance, structured datasets, document navigation, public-interest product design, and browser QA.
 
@@ -36,14 +36,14 @@ An evidence-verification and dossier-publication platform for converting large s
 ### [The U.S.–Israel Policy Network](https://youname-it.vercel.app/)
 A source-audited policy research product examining campaign finance, lobbying, security assistance, diplomacy, intelligence controversies, and institutional influence without collapsing documented relationships into unsupported claims of unified control.
 
-**Repository:** [US-Israel-Policy-Network](https://github.com/hr185882-creator/US-Israel-Policy-Network)
+**Repository:** [us-israel-policy-network](https://github.com/hr185882-creator/us-israel-policy-network)
 
 **What it demonstrates:** geopolitical research, institutional analysis, contested-claim handling, evidence labels, source registers, and responsible treatment of sensitive subjects.
 
 ### [Research & Decision Systems Portfolio](https://hasan-research-systems.vercel.app/)
 An editorial portfolio containing public-interest research products, including the EU Chat Control Monitor and The Russian JFK Dossier.
 
-**Repository:** [Research-decision-systems](https://github.com/hr185882-creator/Research-decision-systems)
+**Repository:** [research-decision-systems](https://github.com/hr185882-creator/research-decision-systems)
 
 **What it demonstrates:** research publication, information architecture, authorship disclosure, responsive design, source hierarchy, and deployment.
 
