@@ -22,6 +22,8 @@ An evidence-verification and dossier-publication platform for converting large s
 ### [The U.S.–Israel Policy Network](https://youname-it.vercel.app/)
 A source-audited policy research product examining campaign finance, lobbying, security assistance, diplomacy, intelligence controversies, and institutional influence without collapsing documented relationships into unsupported claims of unified control.
 
+**Repository:** [US-Israel-Policy-Network](https://github.com/hr185882-creator/US-Israel-Policy-Network)
+
 **What it demonstrates:** geopolitical research, institutional analysis, contested-claim handling, evidence labels, source registers, and responsible treatment of sensitive subjects.
 
 ### [Research & Decision Systems Portfolio](https://hasan-research-systems.vercel.app/)
