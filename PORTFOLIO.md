@@ -23,6 +23,7 @@ This index separates deployed products, analytical systems, research publication
 ### The U.S.–Israel Policy Network
 
 - Live product: https://youname-it.vercel.app/
+- Repository: https://github.com/hr185882-creator/US-Israel-Policy-Network
 - Category: geopolitical and public-policy research
 - Purpose: examine documented institutional relationships, financing, security assistance, diplomacy, lobbying, and policy friction without converting evidence of influence into unsupported claims of unified control
 - Demonstrated capabilities: institutional analysis, contested-claim handling, source registers, evidence labels, and responsible research on sensitive subjects
