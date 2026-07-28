@@ -29,6 +29,8 @@ A source-audited policy research product examining campaign finance, lobbying, s
 ### [Research & Decision Systems Portfolio](https://hasan-research-systems.vercel.app/)
 An editorial portfolio containing public-interest research products, including the EU Chat Control Monitor and The Russian JFK Dossier.
 
+**Repository:** [Research-decision-systems](https://github.com/hr185882-creator/Research-decision-systems)
+
 **What it demonstrates:** research publication, information architecture, authorship disclosure, responsive design, source hierarchy, and deployment.
 
 ### [AURORA Learning Platform](https://auroralearning.manus.space/)
