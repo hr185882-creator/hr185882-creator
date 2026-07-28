@@ -12,10 +12,14 @@ I lead the research direction, analytical framework, product architecture, edito
 ### [The Epstein Record](https://the-epstein-record.vercel.app/)
 A source-first public-record research platform designed to distinguish adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
+**Sanitized source kit:** [architecture, privacy controls, sample claim ledger, and CI](https://github.com/hr185882-creator/clia-portfolio/tree/main/sanitized-repositories/the-epstein-record)
+
 **What it demonstrates:** investigative research, evidence classification, privacy controls, source provenance, structured datasets, document navigation, public-interest product design, and browser QA.
 
 ### [RECORD LOCK](https://record-lock-platform.vercel.app/)
 An evidence-verification and dossier-publication platform for converting large source collections into auditable analytical products.
+
+**Sanitized source kit:** [architecture, claim schema, sample record, and CI](https://github.com/hr185882-creator/clia-portfolio/tree/main/sanitized-repositories/record-lock)
 
 **What it demonstrates:** claim-level analysis, counterarguments, falsifiers, confidence controls, revision conditions, research architecture, and controlled public releases.
 
