@@ -67,6 +67,16 @@ The system is designed to:
 - Editorial QA, browser testing, and deployment validation
 - Technical documentation and decision briefs
 
+## Portfolio documentation
+
+- [Full portfolio index](PORTFOLIO.md)
+- [Analytical methodology](METHODOLOGY.md)
+- [Authorship and AI-assistance disclosure](AUTHORSHIP_AND_AI_DISCLOSURE.md)
+- [Corrections and privacy policy](CORRECTIONS_AND_PRIVACY.md)
+- [Security policy](SECURITY.md)
+- [Contribution guidelines](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
+
 ## Additional repositories
 
 - [Inflection Point Research](https://github.com/hr185882-creator/inflection-point-research) — structural forecasting and turning-point analysis
