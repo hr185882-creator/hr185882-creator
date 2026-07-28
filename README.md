@@ -7,19 +7,29 @@ I build public-facing research products and decision-support systems that turn n
 
 I lead the research direction, analytical framework, product architecture, editorial review, QA, and deployment of my projects. AI tools may assist with synthesis, coding, or production, but the analytical judgments, project direction, and final publication decisions are mine.
 
+## Portfolio proof
+
+- **6 deployed public products** spanning investigative research, evidence verification, policy analysis, analytical education, and decision support
+- **2 standalone sanitized reference repositories** with formal JSON Schemas, executable domain tests, fictional public-safe data, security policies, citation metadata, and versioned release notes
+- **9 public portfolio repositories with automated quality workflows**
+- **6 deployed products with scheduled live-endpoint smoke monitoring**
+- **2 machine-enforced analytical schemas** covering claim provenance, privacy states, hypotheses, constraints, confidence, falsifiers, and revision conditions
+
+These figures describe the current public portfolio and public-safe reference packages; they do not represent private production corpora or user counts.
+
 ## Featured work
 
 ### [The Epstein Record](https://the-epstein-record.vercel.app/)
 A source-first public-record research platform designed to distinguish adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
-**Repository:** [the-Epstein-record](https://github.com/hr185882-creator/the-Epstein-record) — sanitized architecture, privacy controls, fictional claim ledger, security policy, citation metadata, and CI.
+**Repository:** [the-Epstein-record](https://github.com/hr185882-creator/the-Epstein-record) — sanitized architecture, formal schema, privacy controls, fictional claim ledger, domain tests, security policy, release metadata, and CI.
 
 **What it demonstrates:** investigative research, evidence classification, privacy controls, source provenance, structured datasets, document navigation, public-interest product design, and browser QA.
 
 ### [RECORD LOCK](https://record-lock-platform.vercel.app/)
 An evidence-verification and dossier-publication platform for converting large source collections into auditable analytical products.
 
-**Repository:** [record-lock](https://github.com/hr185882-creator/record-lock) — sanitized architecture, claim schema, fictional record, security policy, citation metadata, and CI.
+**Repository:** [record-lock](https://github.com/hr185882-creator/record-lock) — sanitized architecture, formal schema, fictional record, domain tests, security policy, release metadata, and CI.
 
 **What it demonstrates:** claim-level analysis, counterarguments, falsifiers, confidence controls, revision conditions, research architecture, and controlled public releases.
 
