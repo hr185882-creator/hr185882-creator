@@ -15,7 +15,7 @@ I lead the research direction, analytical framework, product architecture, edito
 - **6 deployed products with scheduled live-endpoint smoke monitoring**
 - **2 machine-enforced analytical schemas** covering claim provenance, privacy states, hypotheses, constraints, confidence, falsifiers, and revision conditions
 
-These figures describe the current public portfolio and public-safe reference packages; they do not represent private production corpora or user counts.
+These figures describe the current public portfolio and public-safe reference packages; they do not represent private production corpora or user counts. Portfolio counts should be reconciled against the machine-readable registry before future publication updates.
 
 ## Featured work
 
@@ -57,20 +57,26 @@ A decision-intelligence operating system for evidence verification, adversarial 
 
 **Repository:** [aurora-grid-grindwire-site](https://github.com/hr185882-creator/aurora-grid-grindwire-site)
 
+**Canonical v2 architecture:** [AURORA GRID v2.0](https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md)
+
 ## Analytical system
 
-My core workflow is:
+My active core workflow is:
 
-`SCOUT → SOURCEGRID → K-ALIGN → IPR → BLACKGLASS → CRF → COMMAND → AURORA GRID → RECORD LOCK`
+`ROUTER -> SCOUT -> SOURCEGRID -> K-ALIGN -> IPR -> BLACKGLASS-I -> CRF -> COMMAND -> BLACKGLASS-II -> RECORD LOCK`
+
+AAIK operates across the complete pipeline as the evidence, instability, and exposure governor. Luna, Terra, and Sol are the cognitive control plane. AURORA GRID names the complete operating system rather than an internal stage.
 
 The system is designed to:
 
+- route questions into the minimum sufficient workflow;
 - separate fact, inference, forecast, speculation, and unverified claims;
 - trace provenance and identify source contamination;
-- test the strongest contrary case before resolving a judgment;
+- test the strongest contrary case before resolving a forecast;
 - identify binding constraints, gate states, triggers, and falsifiers;
-- assign calibrated confidence and explicit revision conditions;
-- preserve an auditable record of what was known, assumed, and concluded.
+- assign calibrated probabilities, confidence ceilings, and revision conditions;
+- red-team the selected action for exposure, timing, reversibility, and operational failure;
+- preserve an append-only record of what was known, assumed, concluded, revised, and resolved.
 
 ## Selected capabilities
 
@@ -94,6 +100,7 @@ The system is designed to:
 - [Security policy](SECURITY.md)
 - [Contribution guidelines](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
+- [Machine-readable portfolio registry](https://github.com/hr185882-creator/clia-portfolio/blob/main/portfolio-registry.yaml)
 
 ## Additional repositories
 
@@ -117,6 +124,7 @@ I am open to remote or contract work involving:
 ## Contact
 
 - **LinkedIn:** [Hasan Kazmi](https://www.linkedin.com/in/hasan-kazmi-a756b4407)
+- **Email:** Grindwireproject@gmail.com
 - **Main portfolio:** [Hasan Kazmi — Research & Decision Systems](https://hasan-research-systems.vercel.app/)
 - **GitHub:** [hr185882-creator](https://github.com/hr185882-creator)
 - **Location:** Pakistan · Fully remote
