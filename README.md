@@ -57,11 +57,13 @@ A decision-intelligence operating system for evidence verification, adversarial 
 
 **Repository:** [aurora-grid-grindwire-site](https://github.com/hr185882-creator/aurora-grid-grindwire-site)
 
-**Canonical v2 architecture:** [AURORA GRID v2.0](https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md)
+**Current public release:** [AURORA GRID OS v2.1.1](https://hr185882-creator.github.io/aurora-grid-grindwire-site/release.html)
+
+**Canonical v2.1.1 architecture:** [AURORA GRID OS v2.1.1](https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md)
 
 ## Analytical system
 
-My active core workflow is:
+My active v2.1.1 core workflow is:
 
 `ROUTER -> SCOUT -> SOURCEGRID -> K-ALIGN -> IPR -> BLACKGLASS-I -> CRF -> COMMAND -> BLACKGLASS-II -> RECORD LOCK`
 
