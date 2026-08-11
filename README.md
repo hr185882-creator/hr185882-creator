@@ -24,9 +24,9 @@ AI tools may assist with coding, synthesis, and production. Research direction, 
 ### 3. AI Red-Team Dashboard
 **Authorized AI evaluation and red-team toolkit** built around PyRIT and OpenAI-compatible model endpoints, with a public Community Edition and separately scoped commercial assessment packages.
 
+- Live demo: https://ai-red-team-dashboard-hasan-kazmi-s-projects.vercel.app/
 - Repository: https://github.com/hr185882-creator/ai-red-team-dashboard
 - Commercial range: **$15 starter deliverables → $5,000 scoped assessments**
-- Public demo site: deployment package prepared in the repository
 
 ### 4. Research & Decision Systems
 **Primary portfolio and publication hub** for AI evaluation, evidence verification, strategic research, and deployed decision-support products.
@@ -56,7 +56,7 @@ Examples:
 - The Epstein Record claim-ledger schema and scheduled production smoke tests
 - Research & Decision Systems deployment and quality-gate history
 - AURORA GRID v2.1.1 canonical architecture and methodology
-- AI Red-Team Dashboard secret-safe configuration, security policy, pricing scope, and commercial inquiry workflow
+- AI Red-Team Dashboard secret-safe configuration, security policy, pricing scope, commercial inquiry workflow, and deployed buyer-facing demo
 
 ## Core analytical system
 
