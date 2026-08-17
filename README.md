@@ -16,31 +16,31 @@ My work focuses on three things:
 ### AURORA GRID
 A decision-support system that helps verify evidence, test assumptions, and produce clear, auditable recommendations.
 
-- [Live site](https://hr185882-creator.github.io/aurora-grid-grindwire-site/)
-- [Source code](https://github.com/hr185882-creator/aurora-grid-grindwire-site)
+- [Live site](https://AuroraGrid.github.io/aurora-grid-grindwire-site/)
+- [Source code](https://github.com/AuroraGrid/aurora-grid-grindwire-site)
 
 ### RECORD LOCK
 A platform that takes large collections of documents and turns them into structured, reviewable records. Every claim is linked to its source, and the system tracks confidence, counter-arguments, and what would change the conclusion.
 
 - [Live site](https://record-lock-platform.vercel.app/)
-- [Source code](https://github.com/hr185882-creator/record-lock)
+- [Source code](https://github.com/AuroraGrid/record-lock)
 
 ### Intel Tripwire
 A live monitoring system that brings together news, events, infrastructure signals, markets, and analysis into one clear operating picture.
 
-- [Source code](https://github.com/hr185882-creator/intel-tripwire)
+- [Source code](https://github.com/AuroraGrid/intel-tripwire)
 
 ### Research & Decision Systems
 The main portfolio site that shows the full set of research products and decision tools I have built.
 
 - [Live site](https://hasan-research-systems.vercel.app/)
-- [Source code](https://github.com/hr185882-creator/research-decision-systems)
+- [Source code](https://github.com/AuroraGrid/research-decision-systems)
 
 ### AI Red-Team Dashboard
 A practical toolkit for testing AI systems safely and thoroughly (authorized evaluation only).
 
 - [Live demo](https://ai-red-team-dashboard-hasan-kazmi-s-projects.vercel.app/)
-- [Source code](https://github.com/hr185882-creator/ai-red-team-dashboard)
+- [Source code](https://github.com/AuroraGrid/ai-red-team-dashboard)
 
 ---
 
